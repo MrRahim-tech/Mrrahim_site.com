@@ -1,0 +1,49 @@
+<html>
+  <head>
+    <title>Lessons -Nmap</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <nav class="side_nav" role="navigation">
+    <div id="menuToggle">
+    <input type="checkbox" />
+        <span></span>
+        <span></span>
+        <span></span>
+      <ul id="menu">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="blog.html">Blogs</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="contact.html">Contact</a></li>
+        <li><a href="#" class="active">Lessons</a></li>
+      </ul>
+    </div>
+  </nav>
+  
+  
+  
+    <!-- Top Navigation Tab -->
+<center>
+<nav class="top_nav">
+  <ul class="menu">
+    <li><a href="#" class="active">Home</a></li>
+    <li><a href="blog.html">Blogs</a></li>
+    <li><a href="about.html">About</a></li>
+    <li><a href="Contact.html">Contact</a></li>
+  </ul>
+</nav>
+    </center>
+    <div class="main-content">
+      <div class="featured-posts">
+        <div class="lesson-text">
+          <div class="lesson-header">
+            <h2>Test lesson</h2>
+          </div>
+          <div class="lesson-content">
+            <p>this is a lesson</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mrrahim tech - Blog Post</title>
+    <link rel="stylesheet" href="style.css">
+    </head> 
+    
+<body>
+  
+<nav class="side_nav" role="navigation">
+    <div id="menuToggle">
+    <input type="checkbox" />
+        <span></span>
+        <span></span>
+        <span></span>
+      <ul id="menu">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="#"class="active">Blogs</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </div>
+  </nav>
+  
+  
+  
+    <!-- Top Navigation Tab -->
+<center>
+<nav class="top_nav">
+  <ul class="menu">
+    <li><a href="index.html">Home</a></li>
+    <li><a href="#" class="active">Blogs</a></li>
+    <li><a href="about.html">About</a></li>
+    <li><a href="Contact.html">Contact</a></li>
+  </ul>
+</nav>
+    </center>
+
+<!-- Main Content -->
+<div class="main-content-bost">
+ <center> <h2>All Blogs</h2></center>
+  <div class="featured-posts">
+  <div class="post">
+    <h2 id="troot">TROOT</h2>
+    <img src="/images/Troot.jpg" class="top-img"><br>
+    <p><span class="first_letter">Troot</span> Is A Tool Uses To Root Termux, Has Many Features, The Root Of Troot Access Ubuntu Root, many plans Next Update Comming..</p><br><hr>
+    <div class="code_view">
+    <span class="install-command"><u>Installing Commands:</u></span><br><br>
+    <code>$ apt Update && apt upgrade -y</code><br><br>
+    <code>$ apt install git</code><br><br>
+    <code>$ git clone https://github.com/AbdirihmanSalah/TRoot</code><br><br>
+    <code>$ cd TRoot</code><br><br>
+    <code>$ chmod +x *</code><br><br>
+    <code>$ bash TRoot.sh</code><br><br>
+    <code>$ exit </code><br><br>
+    <code>$ Troot</code></div><br><hr><p>Wixii FaahFaahin Ah Waxad ka helaysa Telegramkena</p><br>
+    <center>Ka Fiiri <br><br> <a href="Contact.html" class="read_more">Telegramkeena</a></center><br>
+    </div>
+ 
+  <div class="post">
+    <h2 id="somphish">SOMPHISH</h2>
+    <img src="/images/somphish.jpg" class="top-img"><br>
+    <p><span class="first_letter">SOMTOOL</span> Is A Tool that uses for phishing, this tool has many Features and has more than 30+ platforms for differnt login pages, when install this tool need to use or setup ngrok.</p><br><hr>
+    <div class="code_view">
+    <span class="install-command"><u>Installing Commands:</u></span><br><br>
+    <code>$ apt Update && apt upgrade -y</code><br><br>
+    <code>$ apt install git</code><br><br>
+    <code>$ git clone https://github.com/AbdirihmanSalah/SOMTOOL</code><br><br>
+    <code>$ cd SOMTOOL</code><br><br>
+    <code>$ chmod +x *</code><br><br>
+    <code>$ bash start.sh</code><br><br>
+    </div><br><hr><p>Wixii FaahFaahin Ah Waxad ka helaysa Telegramkena</p><br>
+    <center>Ka Fiiri <br><br> <a href="#join-telegram" class="read_more">Telegramkeena</a></center><br>
+    </div>
+   <div class="post">
+    <h2 id="harmsom">HARMSOM</h2>
+    <img src="/images/harmsom.jpg" class="top-img"><br>
+    <p><span class="first_letter">HARMSOM</span> Waa tool khatar ah oo loo isticmaalo in laga helo viruses khatar ah, sidoo kale toolka wuxuu leeyahay labo qaybood oo kala ah andoroid iyo qayb kale oo windows ah, insha allah, wixii update ah waan idinla soo socodsiinayaa</p><br><hr>
+    <div class="code_view">
+    <span class="install-command"><u>Installing Commands:</u></span><br><br>
+    <code>$ apt Update && apt upgrade -y</code><br><br>
+    <code>$ apt install git</code><br><br>
+    <code>$ git clone https://github.com/AbdirihmanSalah/harmsom.git</code><br><br>
+    <code>$ cd harmsom</code><br><br>
+    <code>$ chmod +x *</code><br><br>
+    <code>$ bash harmsom.sh</code><br><br>
+    </div><br><hr><p>Wixii FaahFaahin Ah Waxad ka helaysa Telegramkena</p><br>
+    <center>Ka Fiiri <br><br> <a href="#join-telegram" class="read_more">Telegramkeena</a></center><br>
+    </div>
+  <div class="post">
+    <h2 id="download_termux">Download Termux</h2>
+    <img src="images/download_termux.jpg" class="top-img"><br>
+    <p>Runtii Waxaa Jira Meelo Badan Oo aad Ka helayso Appka Termux, Oo Ay kamid yihiin Google Play store, Github ka, Telegram yada Oo Lasoo Dhigo, Iyo F-Droid, Ma Fiicna Inaad kala soo dagto Play store ka, Telegram, Github Toona, Sababtoo ah ma lahn wax update ah, Lkn F-droid Waa Meesha Aad Ka Helayso Termux Update kii ugu danbeeyay, Lasoo Dag Termux Hada Waliba F-Droid.</p><br><br><center>
+    <a href="https://f-droid.org/repo/com.termux_1020.apk" class="real_btn"> Download Now!</a></center>
+  </div>
+</div></div>
+   <!-- Footer -->
+    <div class="footer"><br><br>
+        <div class="footer-post"><h3>Top Recent</h3><hr><div class="web_contains"><br><br>
+   <a href="index"><button class="footer-btn">Home</button></a>
+   <a href="blog"><button class="footer-btn">Blog</button></a>
+   </div><div class="web_posts">
+   <a href="blog#Troot"><button class="footer-btn">TRoot</button></a>
+   <a href="blog#somphish"><button class="footer-btn">Somphish</button></a>
+   <a href="blog#somphish"><button class="footer-btn">Harmsom</button></a>
+   <a href="blog#down_termux"><button class="footer-btn">Download Termux</button></a>
+   </div><div class="web_contains">
+   <a href="post"><button class="footer-btn">Blog Bost</button></a>
+   <a href="about"><button class="footer-btn">About</button></a>
+   <a href="contact"><button class="footer-btn">Contact</button></a>
+  </div></div><br><br>
+        <hr><br><p>&copy; 2024 Mr.rahim tech</p>
+    </div>
+</body>
+<script src="script.js"></script>

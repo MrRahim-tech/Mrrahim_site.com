@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mrrahim Tech</title>
+    <link type="" href="logo.png">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  
+  
+ <div class="face1">
+<nav class="side_nav" role="navigation">
+    <div id="menuToggle">
+    <input type="checkbox" />
+        <span></span>
+        <span></span>
+        <span></span>
+      <ul id="menu">
+        <li><a href="#" class="active">Home</a></li>
+        <li><a href="blog">Blogs</a></li>
+        <li><a href="about">About</a></li>
+        <li><a href="contact">Contact</a></li>
+      </ul>
+    </div>
+  </nav>
+  
+  
+  
+    <!-- Top Navigation Tab -->
+<center>
+<nav class="top_nav">
+  <ul class="menu">
+    <li><a href="#" class="active">Home</a></li>
+    <li><a href="blog">Blogs</a></li>
+    <li><a href="about">About</a></li>
+    <li><a href="Contact">Contact</a></li>
+  </ul>
+</nav>
+    </center>
+
+    <!-- Splash Screen -->
+    <div class="splash-screen">
+      <center>
+        <img class="logo-img" src="/images/logo.png">
+        <h1><span class="big_text">Mr. Rahim Tech</span><br>Official Site</h1>
+        <p>Welcome to Mr. Rahim Tech Site, all your hacking needs! and Developments.</p>
+        <a href="#main-content"><button class="screen-btn">Get Down!</button></a>
+        </center>
+    </div>
+</div> 
+    <!-- Main Content -->
+    <div class="main-content" id="main-content">
+        <!-- Featured Posts -->
+        <center>
+        <div class="featured-posts">
+            <div class="post">
+               <h3>HARMSOM</h3>
+              <img src="images/harmsom.jpg" class="top-img">
+                <p>Waa tool khatar ah oo loo isticmaalo in laga helo viruses khatar ah, sido..</p><br><br>
+                <a href="post#harmsom" class="read_more">Read More</a><br>
+            </div>
+            <div class="post">
+                <h3>SOMPHISH</h3>
+                 <img src="images/somphish.jpg" class="top-img">
+                <p>SOMTOOL Is A Tool that uses for phishing, this tool has many Features and has</p><br><br>
+                <a href="post#somphish" class="read_more">Read More</a><br>
+            </div>
+            <div class="post">
+                <h3>mechanism image</h3><vr></vr>
+                 <img src="images/troot.jpg" class="top-img">
+                <p>Troot Is A Tool Uses To Root Termux, Has Many Features, The Root Of Troot...</p><br><br>
+                <a href="post#troot" class="read_more">Read More</a><br>
+            </div>
+        </div>
+        </center>
+    </div>
+    
+    <!-- Footer -->
+    <div class="footer"><br><br>
+        <div class="footer-post"><h3>Top Recent</h3><hr><div class="web_contains"><br><br>
+   <a href="#"><button class="footer-btn">Home</button></a>
+   <a href="blog"><button class="footer-btn">Blog</button></a>
+   </div><div class="web_posts">
+   <a href="blog#Troot"><button class="footer-btn">TRoot</button></a>
+   <a href="blog#somphish"><button class="footer-btn">Somphish</button></a>
+   <a href="blog#somphish"><button class="footer-btn">Harmsom</button></a>
+   <a href="blog#down_termux"><button class="footer-btn">Download Termux</button></a>
+   </div><div class="web_contains">
+   <a href="post"><button class="footer-btn">Blog Bost</button></a>
+   <a href="about"><button class="footer-btn">About</button></a>
+   <a href="contact"><button class="footer-btn">Contact</button></a>
+  </div></div><br><br>
+        <hr><br><p>&copy; 2024 Mr.rahim tech</p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
