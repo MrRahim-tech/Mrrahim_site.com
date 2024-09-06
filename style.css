@@ -359,7 +359,7 @@ height: 100vh;
 display: block;
 justify-content: center;
 align-items: center;
-background-image: url('/images/spider_tool.jpg');
+background-image: url('images/spider_tool.jpg');
 background-repeat: no-repeat;
 background-position: fixed;
 background-size: 500%;
