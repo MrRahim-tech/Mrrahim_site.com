@@ -15,7 +15,7 @@
         <span></span>
         <span></span>
       <ul id="menu">
-        <li><a href="index">Home</a></li>
+        <li><a href="index.html">Home</a></li>
         <li><a href="blog">Blogs</a></li>
         <li><a href="about">About</a></li>
         <li><a href="#" class="active">Contact</a></li>
@@ -29,7 +29,7 @@
 <center>
 <nav class="top_nav">
   <ul class="menu">
-    <li><a href="index">Home</a></li>
+    <li><a href="index.html">Home</a></li>
     <li><a href="blog">Blogs</a></li>
     <li><a href="about">About</a></li>
     <li><a href="contact" class="active">Contact</a></li>
@@ -76,7 +76,7 @@
      <!-- Footer -->
     <div class="footer"><br><br>
         <div class="footer-post"><h3>Top Recent</h3><hr><div class="web_contains"><br><br>
-   <a href="index"><button class="footer-btn">Home</button></a>
+   <a href="index.html"><button class="footer-btn">Home</button></a>
    <a href="blog"><button class="footer-btn">Blog</button></a>
    </div><div class="web_posts">
    <a href="blog#Troot"><button class="footer-btn">TRoot</button></a>
