@@ -18,8 +18,8 @@
       <ul id="menu">
         <li><a href="index.html">Home</a></li>
         <li><a href="#"class="active">Blogs</a></li>
-        <li><a href="about.html">About</a></li>
-        <li><a href="contact.html">Contact</a></li>
+        <li><a href="about">About</a></li>
+        <li><a href="contact">Contact</a></li>
       </ul>
     </div>
   </nav>
@@ -32,8 +32,8 @@
   <ul class="menu">
     <li><a href="index.html">Home</a></li>
     <li><a href="#" class="active">Blogs</a></li>
-    <li><a href="about.html">About</a></li>
-    <li><a href="Contact.html">Contact</a></li>
+    <li><a href="about">About</a></li>
+    <li><a href="Contact">Contact</a></li>
   </ul>
 </nav>
     </center>
@@ -99,7 +99,7 @@
    <!-- Footer -->
     <div class="footer"><br><br>
         <div class="footer-post"><h3>Top Recent</h3><hr><div class="web_contains"><br><br>
-   <a href="index"><button class="footer-btn">Home</button></a>
+   <a href="index.html"><button class="footer-btn">Home</button></a>
    <a href="blog"><button class="footer-btn">Blog</button></a>
    </div><div class="web_posts">
    <a href="blog#Troot"><button class="footer-btn">TRoot</button></a>
